@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working in Wiz Freight
 - 🌱 I’m a Software Developer
+- 🔭 Currently working in Wiz Freight
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
