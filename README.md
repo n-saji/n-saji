@@ -7,7 +7,9 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m a Software Developer
-- 🔭 Currently working in Wiz Freight
+- 🔭 Currently doing MS in CS @ University at Buffalo
+- 📫 Ex-SDE @ WIZ Freight
+- 😄 Pronouns: He/Him
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
