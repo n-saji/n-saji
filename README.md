@@ -44,7 +44,7 @@
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/nikhil-sajip)
-- [Portfolio](https://nikhilsaji.me)
+- [Portfolio](https://portfolio-v2-navy-pi.vercel.app)
 - Email: **[nikhilsaji200@gmail.com]**
 
 ---
